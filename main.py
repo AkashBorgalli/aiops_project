@@ -1,1 +1,3 @@
-print("Hello Akash")
+if __name__== "__main__":
+    print("Hello Akash")
+
